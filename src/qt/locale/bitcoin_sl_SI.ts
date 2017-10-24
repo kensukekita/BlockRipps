@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GoCoin</source>
-        <translation>O GoCoin</translation>
+        <source>About BlockRipps</source>
+        <translation>O BlockRipps</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GoCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GoCoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;BlockRipps&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;BlockRipps&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GoCoin developers</source>
+Copyright © 2014 The BlockRipps developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your GoCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši GoCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your BlockRipps addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši BlockRipps naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GoCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva GoCoin naslova</translation>
+        <source>Sign a message to prove you own a BlockRipps address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva BlockRipps naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified GoCoin address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim GoCoin naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified BlockRipps address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim BlockRipps naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>GoCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>GoCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>BlockRipps will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BlockRipps se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GoCoin</source>
-        <translation>Pokaži informacije o GoCoin</translation>
+        <source>Show information about BlockRipps</source>
+        <translation>Pokaži informacije o BlockRipps</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a GoCoin address</source>
-        <translation>Pošlji kovance na GoCoin naslov</translation>
+        <source>Send coins to a BlockRipps address</source>
+        <translation>Pošlji kovance na BlockRipps naslov</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for GoCoin</source>
-        <translation>Spremeni nastavitve za GoCoin</translation>
+        <source>Modify configuration options for BlockRipps</source>
+        <translation>Spremeni nastavitve za BlockRipps</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>GoCoin</source>
-        <translation>GoCoin</translation>
+        <source>BlockRipps</source>
+        <translation>BlockRipps</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About GoCoin</source>
-        <translation>&amp;O GoCoin</translation>
+        <source>&amp;About BlockRipps</source>
+        <translation>&amp;O BlockRipps</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>GoCoin client</source>
-        <translation>GoCoin program</translation>
+        <source>BlockRipps client</source>
+        <translation>BlockRipps program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to GoCoin network</source>
-        <translation><numerusform>%n aktivne povezave na GoCoin omrežje</numerusform><numerusform>%n aktivnih povezav na GoCoin omrežje</numerusform><numerusform>%n aktivnih povezav na GoCoin omrežje</numerusform><numerusform>%n aktivnih povezav na GoCoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to BlockRipps network</source>
+        <translation><numerusform>%n aktivne povezave na BlockRipps omrežje</numerusform><numerusform>%n aktivnih povezav na BlockRipps omrežje</numerusform><numerusform>%n aktivnih povezav na BlockRipps omrežje</numerusform><numerusform>%n aktivnih povezav na BlockRipps omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid GoCoin address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega GoCoin naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid BlockRipps address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega BlockRipps naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. GoCoin can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program GoCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. BlockRipps can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program BlockRipps se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GoCoin address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven GoCoin naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid BlockRipps address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven BlockRipps naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>GoCoin-Qt</source>
-        <translation>GoCoin-Qt</translation>
+        <source>BlockRipps-Qt</source>
+        <translation>BlockRipps-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GoCoin after logging in to the system.</source>
-        <translation>Avtomatično zaženi GoCoin ob zagonu sistema.</translation>
+        <source>Automatically start BlockRipps after logging in to the system.</source>
+        <translation>Avtomatično zaženi BlockRipps ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GoCoin on system login</source>
-        <translation>&amp;Zaženi GoCoin ob prijavi v sistem</translation>
+        <source>&amp;Start BlockRipps on system login</source>
+        <translation>&amp;Zaženi BlockRipps ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GoCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za GoCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the BlockRipps client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za BlockRipps program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GoCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na GoCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the BlockRipps network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na BlockRipps omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GoCoin.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu GoCoin aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BlockRipps.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu BlockRipps aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GoCoin addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza GoCoin naslovov v seznamu transakcij.</translation>
+        <source>Whether to show BlockRipps addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza BlockRipps naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GoCoin.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu GoCoin aplikacije</translation>
+        <source>This setting will take effect after restarting BlockRipps.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu BlockRipps aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GoCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z GoCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockRipps network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z BlockRipps omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GoCoin-Qt help message to get a list with possible GoCoin command-line options.</source>
-        <translation>Prikaži GoCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice GoCoin aplikacije</translation>
+        <source>Show the BlockRipps-Qt help message to get a list with possible BlockRipps command-line options.</source>
+        <translation>Prikaži BlockRipps-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice BlockRipps aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>GoCoin - Debug window</source>
-        <translation>GoCoin - okno za odpravljanje napak</translation>
+        <source>BlockRipps - Debug window</source>
+        <translation>BlockRipps - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GoCoin Core</source>
-        <translation>GoCoin jedro</translation>
+        <source>BlockRipps Core</source>
+        <translation>BlockRipps jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GoCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri GoCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the BlockRipps debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri BlockRipps datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the GoCoin RPC console.</source>
-        <translation>Dobrodošli v GoCoin RPC konzoli.</translation>
+        <source>Welcome to the BlockRipps RPC console.</source>
+        <translation>Dobrodošli v BlockRipps RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a GoCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite GoCoin naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BlockRipps address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite BlockRipps naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid GoCoin address</source>
-        <translation>OPOZORILO: Neveljaven GoCoin naslov</translation>
+        <source>WARNING: Invalid BlockRipps address</source>
+        <translation>OPOZORILO: Neveljaven BlockRipps naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GoCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite GoCoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BlockRipps address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite BlockRipps naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GoCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva GoCoin naslova</translation>
+        <source>Sign the message to prove you own this BlockRipps address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva BlockRipps naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GoCoin address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim GoCoin naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified BlockRipps address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim BlockRipps naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GoCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite GoCoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BlockRipps address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite BlockRipps naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GoCoin signature</source>
-        <translation>Vnesite GoCoin podpis</translation>
+        <source>Enter BlockRipps signature</source>
+        <translation>Vnesite BlockRipps podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>GoCoin version</source>
-        <translation>GoCoin različica</translation>
+        <source>BlockRipps version</source>
+        <translation>BlockRipps različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,7 +2623,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or gocoind</source>
+        <source>Send command to -server or BlockRippsd</source>
         <translation>Pošlji ukaz na -server ali blackoind</translation>
     </message>
     <message>
@@ -2643,13 +2643,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: gocoin.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: gocoin.conf)</translation>
+        <source>Specify configuration file (default: BlockRipps.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: BlockRipps.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: gocoind.pid)</source>
-        <translation>Določi pid datoteko (privzeto: gocoin.pid)</translation>
+        <source>Specify pid file (default: BlockRippsd.pid)</source>
+        <translation>Določi pid datoteko (privzeto: BlockRipps.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GoCoin will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno GoCoin ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BlockRipps will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno BlockRipps ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,24 +2988,24 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=gocoinrpc
+rpcuser=BlockRippsrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GoCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BlockRipps Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
 Priporočeno je, da uporabite naslednje naključno geslo:
-rpcuser=gocoinrpc
+rpcuser=BlockRippsrpc
 rpcpassword=%s
 (tega gesla si vam ni potrebno zapomniti)
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;GoCoin Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;BlockRipps Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;GoCoin Alarm&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  GoCoin is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija GoCoin je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  BlockRipps is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija BlockRipps je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>GoCoin</source>
-        <translation>GoCoin</translation>
+        <source>BlockRipps</source>
+        <translation>BlockRipps</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;GoCoin Alarm&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GoCoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo GoCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BlockRipps</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo BlockRipps</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart GoCoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite GoCoin za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart BlockRipps to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite BlockRipps za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;GoCoin Alarm&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. GoCoin is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča GoCoin aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. BlockRipps is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča BlockRipps aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GoCoin</source>
-        <translation>O GoCoine</translation>
+        <source>About BlockRipps</source>
+        <translation>O BlockRippse</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GoCoin&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;GoCoinu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;BlockRipps&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;BlockRippsu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GoCoin developers</source>
+Copyright © 2014 The BlockRipps developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GoCoin developers</translation>
+Copyright © 2014 The BlockRipps developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your GoCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše GoCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your BlockRipps addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše BlockRipps adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GoCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto GoCoin adresu</translation>
+        <source>Sign a message to prove you own a BlockRipps address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto BlockRipps adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified GoCoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou GoCoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified BlockRipps address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou BlockRipps adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>GoCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>GoCoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>BlockRipps will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BlockRipps sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GoCoin</source>
-        <translation>Zobraziť informácie o GoCoin</translation>
+        <source>Show information about BlockRipps</source>
+        <translation>Zobraziť informácie o BlockRipps</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a GoCoin address</source>
-        <translation>Poslať mince na GoCoin adresu</translation>
+        <source>Send coins to a BlockRipps address</source>
+        <translation>Poslať mince na BlockRipps adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for GoCoin</source>
-        <translation>Upraviť možnosti konfigurácie pre GoCoin</translation>
+        <source>Modify configuration options for BlockRipps</source>
+        <translation>Upraviť možnosti konfigurácie pre BlockRipps</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>GoCoin</source>
-        <translation>GoCoin</translation>
+        <source>BlockRipps</source>
+        <translation>BlockRipps</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About GoCoin</source>
-        <translation>&amp;O GoCoin</translation>
+        <source>&amp;About BlockRipps</source>
+        <translation>&amp;O BlockRipps</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>GoCoin client</source>
-        <translation>GoCoin klient</translation>
+        <source>BlockRipps client</source>
+        <translation>BlockRipps klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to GoCoin network</source>
-        <translation><numerusform>%n aktívne spojenie s GoCoin sieťov</numerusform><numerusform>%n aktívnych spojení s GoCoin sieťov</numerusform><numerusform>%n aktívnych spojení s GoCoin sieťou</numerusform></translation>
+        <source>%n active connection(s) to BlockRipps network</source>
+        <translation><numerusform>%n aktívne spojenie s BlockRipps sieťov</numerusform><numerusform>%n aktívnych spojení s BlockRipps sieťov</numerusform><numerusform>%n aktívnych spojení s BlockRipps sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid GoCoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou GoCoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid BlockRipps address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou BlockRipps adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. GoCoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. GoCoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. BlockRipps can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. BlockRipps už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GoCoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou GoCoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid BlockRipps address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou BlockRipps adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>GoCoin-Qt</source>
-        <translation>GoCoin-Qt</translation>
+        <source>BlockRipps-Qt</source>
+        <translation>BlockRipps-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GoCoin after logging in to the system.</source>
-        <translation>Automaticky spustiť GoCoin po prihlásení sa do systému.</translation>
+        <source>Automatically start BlockRipps after logging in to the system.</source>
+        <translation>Automaticky spustiť BlockRipps po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GoCoin on system login</source>
-        <translation>&amp;Spustiť GoCoin pri prihlásení do systému</translation>
+        <source>&amp;Start BlockRipps on system login</source>
+        <translation>&amp;Spustiť BlockRipps pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GoCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta GoCoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the BlockRipps client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta BlockRipps na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GoCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti GoCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the BlockRipps network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti BlockRipps cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GoCoin.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní GoCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BlockRipps.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní BlockRipps.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GoCoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť GoCoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show BlockRipps addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť BlockRipps adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GoCoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní GoCoin.</translation>
+        <source>This setting will take effect after restarting BlockRipps.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní BlockRipps.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GoCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou GoCoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockRipps network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou BlockRipps po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GoCoin-Qt help message to get a list with possible GoCoin command-line options.</source>
-        <translation>Zobraziť GoCoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku GoCoin.</translation>
+        <source>Show the BlockRipps-Qt help message to get a list with possible BlockRipps command-line options.</source>
+        <translation>Zobraziť BlockRipps-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku BlockRipps.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>GoCoin - Debug window</source>
-        <translation>GoCoin - Ladiace okno</translation>
+        <source>BlockRipps - Debug window</source>
+        <translation>BlockRipps - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GoCoin Core</source>
-        <translation>Jadro GoCoin</translation>
+        <source>BlockRipps Core</source>
+        <translation>Jadro BlockRipps</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GoCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte GoCoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the BlockRipps debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte BlockRipps súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the GoCoin RPC console.</source>
-        <translation>Vitajte v konzole GoCoin RPC.</translation>
+        <source>Welcome to the BlockRipps RPC console.</source>
+        <translation>Vitajte v konzole BlockRipps RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a GoCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte GoCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BlockRipps address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte BlockRipps adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid GoCoin address</source>
-        <translation>UPOZORNENIE: Neplatná GoCoin adresa</translation>
+        <source>WARNING: Invalid BlockRipps address</source>
+        <translation>UPOZORNENIE: Neplatná BlockRipps adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GoCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte GoCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BlockRipps address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte BlockRipps adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GoCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto GoCoin adresu</translation>
+        <source>Sign the message to prove you own this BlockRipps address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto BlockRipps adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2022,8 +2022,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GoCoin address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou GoCoin adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified BlockRipps address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou BlockRipps adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GoCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte GoCoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BlockRipps address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte BlockRipps adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GoCoin signature</source>
-        <translation>Zadajte GoCoin podpis</translation>
+        <source>Enter BlockRipps signature</source>
+        <translation>Zadajte BlockRipps podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>GoCoin version</source>
-        <translation>GoCoin verzia</translation>
+        <source>BlockRipps version</source>
+        <translation>BlockRipps verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2624,8 +2624,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or gocoind</source>
-        <translation>Pošli príkaz na -server alebo gocoind</translation>
+        <source>Send command to -server or BlockRippsd</source>
+        <translation>Pošli príkaz na -server alebo BlockRippsd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: gocoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: gocoin.conf)</translation>
+        <source>Specify configuration file (default: BlockRipps.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: BlockRipps.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: gocoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: gocoind.pid)</translation>
+        <source>Specify pid file (default: BlockRippsd.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: BlockRippsd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GoCoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny GoCoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BlockRipps will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny BlockRipps nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2989,24 +2989,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=gocoinrpc
+rpcuser=BlockRippsrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GoCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BlockRipps Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=gocoinrpc
+rpcuser=BlockRippsrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;GoCoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;BlockRipps Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;GoCoin Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  GoCoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. GoCoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  BlockRipps is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. BlockRipps už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>GoCoin</source>
-        <translation>GoCoin</translation>
+        <source>BlockRipps</source>
+        <translation>BlockRipps</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;GoCoin Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GoCoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu GoCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BlockRipps</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu BlockRipps</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart GoCoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte GoCoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart BlockRipps to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte BlockRipps k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;GoCoin Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. GoCoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. GoCoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. BlockRipps is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. BlockRipps je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

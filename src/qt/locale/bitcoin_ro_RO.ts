@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GoCoin</source>
-        <translation>Despre GoCoin</translation>
+        <source>About BlockRipps</source>
+        <translation>Despre BlockRipps</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GoCoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;GoCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;BlockRipps&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;BlockRipps&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GoCoin developers</source>
+Copyright © 2014 The BlockRipps developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The GoCoin developers</translation>
+Copyright © 2014 The BlockRipps developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your GoCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele GoCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your BlockRipps addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele BlockRipps pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GoCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă GoCoin</translation>
+        <source>Sign a message to prove you own a BlockRipps address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BlockRipps</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified GoCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă GoCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified BlockRipps address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BlockRipps</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>GoCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>GoCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>BlockRipps will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BlockRipps se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GoCoin</source>
-        <translation>Arată informații despre GoCoin</translation>
+        <source>Show information about BlockRipps</source>
+        <translation>Arată informații despre BlockRipps</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a GoCoin address</source>
-        <translation>Trimite monede către o adresă GoCoin</translation>
+        <source>Send coins to a BlockRipps address</source>
+        <translation>Trimite monede către o adresă BlockRipps</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for GoCoin</source>
-        <translation>Modifică opțiuni de configurare pentru GoCoin</translation>
+        <source>Modify configuration options for BlockRipps</source>
+        <translation>Modifică opțiuni de configurare pentru BlockRipps</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-200"/>
-        <source>GoCoin</source>
-        <translation>GoCoin</translation>
+        <source>BlockRipps</source>
+        <translation>BlockRipps</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About GoCoin</source>
-        <translation>Despre GoCoin</translation>
+        <source>&amp;About BlockRipps</source>
+        <translation>Despre BlockRipps</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>GoCoin client</source>
-        <translation>Clientul GoCoin</translation>
+        <source>BlockRipps client</source>
+        <translation>Clientul BlockRipps</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to GoCoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua GoCoin</numerusform><numerusform>%n conexiuni active la reteaua GoCoin</numerusform><numerusform>%n conexiuni active la reteaua GoCoin</numerusform></translation>
+        <source>%n active connection(s) to BlockRipps network</source>
+        <translation><numerusform>%n conexiune activă la reteaua BlockRipps</numerusform><numerusform>%n conexiuni active la reteaua BlockRipps</numerusform><numerusform>%n conexiuni active la reteaua BlockRipps</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid GoCoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa GoCoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid BlockRipps address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa BlockRipps invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. GoCoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. GoCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. BlockRipps can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. BlockRipps nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GoCoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă GoCoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid BlockRipps address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă BlockRipps validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>GoCoin-Qt</source>
-        <translation>GoCoin-Qt</translation>
+        <source>BlockRipps-Qt</source>
+        <translation>BlockRipps-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GoCoin after logging in to the system.</source>
-        <translation>Pornește GoCoin imdiat după logarea în sistem</translation>
+        <source>Automatically start BlockRipps after logging in to the system.</source>
+        <translation>Pornește BlockRipps imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GoCoin on system login</source>
-        <translation>$Pornește GoCoin la logarea în sistem</translation>
+        <source>&amp;Start BlockRipps on system login</source>
+        <translation>$Pornește BlockRipps la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GoCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul GoCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the BlockRipps client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul BlockRipps pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GoCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua GoCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the BlockRipps network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua BlockRipps prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GoCoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea GoCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BlockRipps.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea BlockRipps.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GoCoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese GoCoin din lista de tranzacție sau nu.</translation>
+        <source>Whether to show BlockRipps addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese BlockRipps din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GoCoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea GoCoin.</translation>
+        <source>This setting will take effect after restarting BlockRipps.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea BlockRipps.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GoCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua GoCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockRipps network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua BlockRipps după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GoCoin-Qt help message to get a list with possible GoCoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor GoCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă GoCoin.</translation>
+        <source>Show the BlockRipps-Qt help message to get a list with possible BlockRipps command-line options.</source>
+        <translation>Afișa mesajul de ajutor BlockRipps-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă BlockRipps.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>GoCoin - Debug window</source>
-        <translation>GoCoin - fereastră depanare</translation>
+        <source>BlockRipps - Debug window</source>
+        <translation>BlockRipps - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GoCoin Core</source>
-        <translation>GoCoin Core</translation>
+        <source>BlockRipps Core</source>
+        <translation>BlockRipps Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GoCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare GoCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the BlockRipps debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare BlockRipps din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the GoCoin RPC console.</source>
-        <translation>Bine ati venit la consola GoCoin RPC.</translation>
+        <source>Welcome to the BlockRipps RPC console.</source>
+        <translation>Bine ati venit la consola BlockRipps RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a GoCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă GoCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BlockRipps address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă BlockRipps(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid GoCoin address</source>
-        <translation>Atenție: Adresă GoCoin invalidă</translation>
+        <source>WARNING: Invalid BlockRipps address</source>
+        <translation>Atenție: Adresă BlockRipps invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GoCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă GoCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BlockRipps address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă BlockRipps(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GoCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă GoCoin</translation>
+        <source>Sign the message to prove you own this BlockRipps address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă BlockRipps</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GoCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă GoCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified BlockRipps address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă BlockRipps</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GoCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă GoCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BlockRipps address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă BlockRipps(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GoCoin signature</source>
-        <translation>Introduceti semnatura GoCoin</translation>
+        <source>Enter BlockRipps signature</source>
+        <translation>Introduceti semnatura BlockRipps</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>GoCoin version</source>
-        <translation>Versiune GoCoin</translation>
+        <source>BlockRipps version</source>
+        <translation>Versiune BlockRipps</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or gocoind</source>
-        <translation>Trimite comanda catre server sau gocoind</translation>
+        <source>Send command to -server or BlockRippsd</source>
+        <translation>Trimite comanda catre server sau BlockRippsd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: gocoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: gocoin.conf)</translation>
+        <source>Specify configuration file (default: BlockRipps.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: BlockRipps.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: gocoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: gocoin.pid)</translation>
+        <source>Specify pid file (default: BlockRippsd.pid)</source>
+        <translation>Speficica fisier pid(implicit: BlockRipps.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GoCoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit GoCoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BlockRipps will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit BlockRipps nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,22 +2990,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=gocoinrpc
+rpcuser=BlockRippsrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GoCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BlockRipps Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=gocoinrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=BlockRippsrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;GoCoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;BlockRipps Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;GoCoin Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  GoCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  BlockRipps is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>GoCoin</source>
-        <translation>GoCoin</translation>
+        <source>BlockRipps</source>
+        <translation>BlockRipps</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;GoCoin Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GoCoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de GoCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BlockRipps</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de BlockRipps</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart GoCoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați GoCoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart BlockRipps to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați BlockRipps pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;GoCoin Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. GoCoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil GoCoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. BlockRipps is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil BlockRipps ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

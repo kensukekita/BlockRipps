@@ -1,7 +1,7 @@
 src/*.exe
-src/gocoin
-src/gocoind
-src/test_gocoin
+src/BlockRipps
+src/BlockRippsd
+src/test_BlockRipps
 src/build.h
 .*.swp
 *.*~*
@@ -10,11 +10,11 @@ src/build.h
 *.orig
 *.o
 *.patch
-.gocoin
+.BlockRipps
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-gocoin-qt
+BlockRipps-qt
 #resources cpp
 qrc_*.cpp
 #qt creator
